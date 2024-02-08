@@ -1,4 +1,4 @@
-# MySQL Assignments for Techshop Electronic Gadgets
+# MYSQL ASSIGNMENT FOR TECHSHOP ELECTRONICS GADGETS
 
 This repository contains MySQL assignments related to the Techshop electronic gadgets topic. There are four tasks included, each focusing on different aspects of database management. Additionally, an Entity-Relationship (ER) diagram depicting the database structure is provided.
 
@@ -53,5 +53,5 @@ This repository contains MySQL assignments related to the Techshop electronic ga
 
 The ER diagram above illustrates the relationships between various entities in the database schema.
 
-For any questions or clarifications, please reach out to Itisha Jain at jainitisha192@gmail.com.
+For any questions or clarifications, please reach out to ME at jainitisha192@gmail.com.
 
